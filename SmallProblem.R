@@ -13,4 +13,3 @@ vec3_factor = as.factor(vec3)
 class(vec3_factor)
 class(vec3)
 vec3_factor
-
